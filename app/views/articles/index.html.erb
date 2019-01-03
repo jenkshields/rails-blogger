@@ -1,4 +1,8 @@
 <h1>All Articles</h1>
+<p>
+	<%= link_to "All tags", tags_path %>
+</p>
+
 
 <ul id="articles">
   <% @articles.each do |article| %>
@@ -9,3 +13,4 @@
 </ul>
 
 <%= link_to "Create new article", new_article_path, class: "new_article" %>
+
