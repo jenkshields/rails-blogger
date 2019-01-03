@@ -1,0 +1,656 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"article",
+				"article_id"
+			],
+			[
+				"text",
+				"text_area\t(_form.html.erb)"
+			],
+			[
+				"tet",
+				"text_field\t(_form.html.erb)"
+			],
+			[
+				"art",
+				"article"
+			],
+			[
+				"form",
+				"form_with\t(edit.html.erb)"
+			],
+			[
+				"edit",
+				"edit_article_path\t(index.html.erb)"
+			],
+			[
+				"sub",
+				"submit\t(new.html.erb)"
+			],
+			[
+				"tex",
+				"text_field"
+			],
+			[
+				"co",
+				"count\t(new.html.erb)"
+			],
+			[
+				"error",
+				"error_explanation\t(new.html.erb)"
+			],
+			[
+				"arti",
+				"articles\t(routes.rb)"
+			],
+			[
+				"Art",
+				"Article"
+			],
+			[
+				"artic",
+				"article\t(new.html.erb)"
+			],
+			[
+				"tra",
+				"trans_word"
+			],
+			[
+				"put",
+				"put_to_bed"
+			],
+			[
+				"stuff",
+				"stuff_in_intenstine"
+			],
+			[
+				"n",
+				"numberShowing"
+			],
+			[
+				"num",
+				"num_string"
+			],
+			[
+				"en",
+				"english_number"
+			],
+			[
+				"fa",
+				"favorite_number"
+			],
+			[
+				"in",
+				"introduction"
+			],
+			[
+				"appe",
+				"appendChild\t<T: Node>(newChild: T) => T"
+			],
+			[
+				"displ",
+				"displayArea\tHTMLElement | null"
+			],
+			[
+				"selec",
+				"querySelector\t(selector: \"a\") => (HTMLAnchorElement | null)"
+			],
+			[
+				"textal",
+				"text-align\tproperty"
+			],
+			[
+				"border",
+				"border-style\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"grid-tem",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"first",
+				"firstVowel\t(arr: any) => any"
+			],
+			[
+				"fir",
+				"firstQU\t(arr: any) => any"
+			],
+			[
+				"lower",
+				"lowerStrArray\tany"
+			],
+			[
+				"low",
+				"lowerStrArray\tany"
+			],
+			[
+				"lo",
+				"lowerStrArray\tany"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "db/migrate/20190103030722_create_articles.rb",
+			"settings":
+			{
+				"buffer_size": 177,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/article.rb",
+			"settings":
+			{
+				"buffer_size": 38,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 59,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "You have new mail in /var/mail/jennifershields                       \nJennifers-MBP:blogger jennifershields$ rake routes                   \n                   Prefix Verb   URI Pattern                         \n                                                     Controller#Actio\nn                                                                    \n                 articles GET    /articles(.:format)                 \n                                                     articles#index  \n                          POST   /articles(.:format)                 \n                                                     articles#create \n              new_article GET    /articles/new(.:format)             \n                                                     articles#new    \n             edit_article GET    /articles/:id/edit(.:format)        \n                                                     articles#edit   \n                  article GET    /articles/:id(.:format)             \n                                                     articles#show   \n                          PATCH  /articles/:id(.:format)             \n                                                     articles#update \n                          PUT    /articles/:id(.:format)             \n                                                     articles#update \n                          DELETE /articles/:id(.:format)             \n                                                     articles#destroy\n       rails_service_blob GET    /rails/active_storage/blobs/:signed_\nid/*filename(.:format)                               active_storage/b\nlobs#show                                                            \nrails_blob_representation GET    /rails/active_storage/representation\ns/:signed_blob_id/:variation_key/*filename(.:format) active_storage/r\nepresentations#show                                                  \n       rails_disk_service GET    /rails/active_storage/disk/:encoded_\nkey/*filename(.:format)                              active_storage/d\nisk#show                                                             \nupdate_rails_disk_service PUT    /rails/active_storage/disk/:encoded_\ntoken(.:format)                                      active_storage/d\nisk#update                                                           \n     rails_direct_uploads POST   /rails/active_storage/direct_uploads\n(.:format)                                           active_storage/d\nirect_uploads#create                                                 \nJennifers-MBP:blogger jennifershields$                               \n",
+			"settings":
+			{
+				"buffer_size": 2590,
+				"line_ending": "Unix",
+				"name": "Terminal (bash)",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"term",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"web",
+				"Web Inspector"
+			],
+			[
+				"trm",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"termina",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"terminal",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"terma",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"termin",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"ter",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"Install P",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 148.0,
+		"history":
+		[
+			"(24 + 21) % 26",
+			"(-5 + 26)",
+			"(24 + -5) % 26",
+			"-4 % 26",
+			"1-5",
+			"(26+1) % 26",
+			"2-5",
+			"(2 + -5) % 26",
+			"(10 + -7) & 26",
+			"(10 + 7) % 26",
+			"(22 + 7) % 26",
+			"'palindromes/palindromes.js'",
+			"palindromes.js",
+			"cd palindromes",
+			"newStr",
+			"jasmine calculator.spec.js",
+			"jasmine calculator.js",
+			"cd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jennifershields/the_odin_project/blogger",
+		"/Users/jennifershields/the_odin_project/blogger/app",
+		"/Users/jennifershields/the_odin_project/blogger/app/models",
+		"/Users/jennifershields/the_odin_project/blogger/config",
+		"/Users/jennifershields/the_odin_project/blogger/db",
+		"/Users/jennifershields/the_odin_project/blogger/db/migrate"
+	],
+	"file_history":
+	[
+		"/Users/jennifershields/the_odin_project/blogger/db/seeds.rb",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/blog/app/controllers/comments_controller.rb",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/blog/app/views/comments/_form.html.erb",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/blog/app/views/comments/_comment.html.erb",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/blog/app/views/articles/show.html.erb",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/blog/app/views/articles/index.html.erb",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/blog/app/views/articles/new.html.erb",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/blog/app/views/articles/edit.html.erb",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/blog/app/views/articles/_form.html.erb",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/blog/app/controllers/articles_controller.rb",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/blog/config/routes.rb",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/blog/app/models/article.rb",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/blog/app/models/comment.rb",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/blog/app/views/articles/_comment.html.erb",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/blog/README.md",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/blog/app/controllers/application_controller.rb",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/blog/db/migrate/20190103004540_create_articles.rb",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/blog/app/views/welcome/index.html.erb",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/blog/untitled",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/blog/.gitignore",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/hello_app/README.md",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/hello_app/config/routes.rb",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/hello_app/app/controllers/application_controller.rb",
+		"/Users/jennifershields/the_odin_project/ruby-tutorial/environment/hello_app/Gemfile",
+		"/Users/jennifershields/the_odin_project/learn_ruby/04_pig_latin/pig_latin_spec.rb",
+		"/Users/jennifershields/the_odin_project/learn_ruby/03_simon_says/simon_says.rb",
+		"/Users/jennifershields/the_odin_project/learn_ruby/04_pig_latin/pig_latin.rb",
+		"/Users/jennifershields/the_odin_project/learn_ruby/00_hello/hello_spec.rb",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/pig_latin/pigLatin.js",
+		"/Users/jennifershields/the_odin_project/learn_ruby/03_simon_says/simon_says_spec.rb",
+		"/Users/jennifershields/the_odin_project/learn_ruby/02_calculator/calculator.rb",
+		"/Users/jennifershields/the_odin_project/learn_ruby/02_calculator/calculator_spec.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/three_five.rb",
+		"/Users/jennifershields/the_odin_project/learn_ruby/01_temperature/temperature.rb",
+		"/Users/jennifershields/the_odin_project/learn_ruby/00_hello/hello.rb",
+		"/Users/jennifershields/the_odin_project/learn_ruby/01_temperature/temperature_spec.rb",
+		"/Users/jennifershields/the_odin_project/learn_ruby/01_temperature/index.html",
+		"/Users/jennifershields/the_odin_project/ruby-intro/dragon.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/die.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/english_number.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/grandma.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/99_bottles.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/toc.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/angry_boss.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/name.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/fave_num.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/hours.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/student.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/my_program.rb",
+		"/Users/jennifershields/the_odin_project/calculator/style.css",
+		"/Users/jennifershields/the_odin_project/calculator/index.html",
+		"/Users/jennifershields/the_odin_project/calculator/calc.js",
+		"/Users/jennifershields/Exercism/javascript/two-fer/two-fer.js",
+		"/Users/jennifershields/exercism/javascript/two-fer/two-fer.spec.js",
+		"/Users/jennifershields/the_odin_project/odin-etch/etch.html",
+		"/Users/jennifershields/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/jennifershields/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/jennifershields/Exercism/javascript/leap/README.md",
+		"/Users/jennifershields/Exercism/javascript/leap/leap.js",
+		"/Users/jennifershields/Exercism/javascript/leap/leap.spec.js",
+		"/Users/jennifershields/exercism/javascript/hello-world/hello-world.js",
+		"/Users/jennifershields/exercism/javascript/hello-world/README.md",
+		"/Users/jennifershields/exercism/javascript/hello-world/hello-world.spec.js",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/pig_latin/README.md",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/pig_latin/pigLatin.spec.js",
+		"/Users/jennifershields/Library/Application Support/Sublime Text 3/Packages/User/JSC.sublime-build",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/fibonacci/fibonacci.js",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/fibonacci/README.md",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/fibonacci/fibonacci.spec.js",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/caesar/README.md",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/caesar/caesar.spec.js",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/caesar/caesar.js",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/snakeCase/snakeCase.spec.js",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/snakeCase/README.md",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/snakeCase/snakeCase.js",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/palindromes/palindromes.js",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/palindromes/palindromes.spec.js",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/palindromes/palindromes.html",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/palindromes/README.md",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/calculator/calculator.spec.js",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/calculator/calculator.js",
+		"/Users/jennifershields/Library/Application Support/Sublime Text 3/Packages/TerminalView/README.md",
+		"/Users/jennifershields/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jennifershields/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jennifershields/scratch.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "db/migrate/20190103030722_create_articles.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/models/article.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 38,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 59,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2559,
+								2559
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"caret_style": "blink",
+							"color_scheme": "Packages/TerminalView/TerminalView.hidden-tmTheme",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"scroll_past_end": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminal_view": true,
+							"terminal_view_activate_args":
+							{
+								"cmd": "/bin/bash -l",
+								"cwd": "/Users/jennifershields/the_odin_project/blogger",
+								"keep_open": false,
+								"syntax": null,
+								"title": "Terminal (bash)"
+							},
+							"terminal_view_last_cursor_pos":
+							[
+								36,
+								39
+							],
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 252.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/JSC.sublime-build",
+	"project": "blogger.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
